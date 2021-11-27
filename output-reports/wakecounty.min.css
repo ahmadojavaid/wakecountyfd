@@ -1,0 +1,344 @@
+#Header_wrapper {
+    background-color: #000119
+}
+#Footer {
+    background-color: #342c25
+}
+body {
+    color: #8f8b85
+}
+.themecolor2 {
+    color: #F7F7F7;
+    background-color: #556b2f
+}
+.fancy_heading_icon .icon_top,
+.themecolor,
+.themecolor3,
+a {
+    color: #d6aa34
+}
+.themecolor3 {
+    background-color: #2f4f4f
+}
+a:hover {
+    color: #b48c22
+}
+::-moz-selection {
+    background-color: #d6aa34
+}
+::selection {
+    background-color: #d6aa34
+}
+.counter .desc_wrapper .title {
+    color: #a8a8a8
+}
+.text-logo #logo,
+h1,
+h1 a,
+h1 a:hover,
+h2,
+h2 a,
+h2 a:hover,
+h3,
+h3 a,
+h3 a:hover {
+    color: #ece6dc
+}
+h4,
+h4 a,
+h4 a:hover {
+    color: #d6aa34
+}
+a.content_link .title,
+h5,
+h5 a,
+h5 a:hover,
+h6,
+h6 a,
+h6 a:hover {
+    color: #ece6dc
+}
+.highlight:not(.highlight_image) {
+    background-color: #d6aa34
+}
+a.button {
+    background-color: #f7f7f7;
+    color: #747474
+}
+button {
+    background-color: #d6aa34;
+    color: #fff
+}
+a.mfn-link {
+    color: #656B6F
+}
+a.mfn-link-2 span,
+a.mfn-link-5 span,
+a.mfn-link-8:after,
+a.mfn-link-8:before,
+a:hover.mfn-link-2 span:before {
+    background: #d6aa34
+}
+a:hover.mfn-link {
+    color: #d6aa34
+}
+a.mfn-link-2 span:before,
+a.mfn-link-5:before,
+a.mfn-link-7:after,
+a.mfn-link-7:before,
+a:hover.mfn-link-4:after,
+a:hover.mfn-link-4:before {
+    background: #b48c22
+}
+a.mfn-link-6:before {
+    border-bottom-color: #b48c22
+}
+.column_column ul,
+.the_content_wrapper ul {
+    color: #737E86
+}
+.hr_color,
+.hr_color hr {
+    color: #514538;
+    background: #514538
+}
+.highlight-left:after,
+.highlight-right:after {
+    background: #d6aa34
+}
+@media only screen and (max-width: 767px) {
+    .highlight-left .column:first-child,
+    .highlight-right .column:last-child {
+        background: #d6aa34
+    }
+}
+#Header .top_bar_left,
+#Top_bar #menu,
+.header-classic #Top_bar,
+.header-fixed #Top_bar {
+    background-color: #23201d
+}
+#Top_bar .top_bar_right:before {
+    background-color: #e3e3e3
+}
+#Header .top_bar_right {
+    background-color: #f5f5f5
+}
+#Top_bar .top_bar_right a {
+    color: #444
+}
+#Top_bar .menu>li>a {
+    color: #897d68
+}
+#Top_bar .menu>li.current-menu-item>a,
+#Top_bar .menu>li.current_page_item>a {
+    color: #b2a892
+}
+#Top_bar .menu>li a:after {
+    background: #b2a892
+}
+.menu-highlight #Top_bar #menu>ul>li.current-menu-item>a,
+.menu-highlight #Top_bar #menu>ul>li.current_page_item>a {
+    background: #44382c
+}
+#Top_bar .menu>li ul {
+    background-color: #F2F2F2
+}
+#Top_bar .menu>li ul li a {
+    color: #5f5f5f
+}
+#Top_bar .menu>li ul li a:hover {
+    color: #2e2e2e
+}
+#Footer {
+    color: #ece6dc;
+    background-image: url(../images/home_charity_texture_2.jpg);
+    background-repeat: repeat
+}
+#Footer .themecolor,
+#Footer a,
+.counter .icon_wrapper i,
+.quick_fact .number {
+    color: #d6aa34
+}
+#Footer a:hover {
+    color: #b48c22
+}
+#Footer h1,
+#Footer h1 a,
+#Footer h1 a:hover,
+#Footer h2,
+#Footer h2 a,
+#Footer h2 a:hover,
+#Footer h3,
+#Footer h3 a,
+#Footer h3 a:hover,
+#Footer h4,
+#Footer h4 a,
+#Footer h4 a:hover,
+#Footer h5,
+#Footer h5 a,
+#Footer h5 a:hover,
+#Footer h6,
+#Footer h6 a,
+#Footer h6 a:hover {
+    color: #fff
+}
+a:hover.icon_bar {
+    color: #d6aa34!important
+}
+a.content_link,
+a:hover.content_link {
+    color: #d6aa34
+}
+a.content_link:before {
+    border-bottom-color: #d6aa34
+}
+a.content_link:after {
+    border-color: #d6aa34
+}
+@media only screen and (max-width: 767px) {
+    #Action_bar,
+    #Top_bar {
+        background: #23201d!important
+    }
+}
+.counter .desc_wrapper .number {
+    font-size: 50px;
+    line-height: 50px;
+    margin-bottom: 5px
+}
+#Content,
+#Wrapper,
+html {
+    background-color: #342c25
+}
+body,
+button {
+    font-family: Roboto, Arial, Tahoma, sans-serif;
+    font-weight: 400
+}
+#header_action_button,
+#menu>ul>li>a {
+    font-family: Roboto Slab, Arial, Tahoma, sans-serif;
+    font-weight: 400
+}
+.text-logo #logo,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: Roboto Slab, Arial, Tahoma, sans-serif;
+    font-weight: 300
+}
+body {
+    font-size: 13px;
+    line-height: 21px
+}
+#menu>ul>li>a {
+    font-size: 17px
+}
+.text-logo #logo,
+h1 {
+    font-size: 25px;
+    line-height: 25px
+}
+h2 {
+    font-size: 42px;
+    line-height: 42px
+}
+h3 {
+    font-size: 36px;
+    line-height: 38px
+}
+h4 {
+    font-size: 23px;
+    line-height: 27px
+}
+h5 {
+    font-size: 18px;
+    line-height: 23px
+}
+h6 {
+    font-size: 15px;
+    line-height: 22px
+}
+.header-classic #Action_bar {
+    background-color: #13110f
+}
+#Top_bar {
+    background: url(../images/home_charity_texture_6.jpg)
+}
+.menu-highlight #Top_bar .menu>li.current-menu-item>a,
+.menu-highlight #Top_bar .menu>li.current_page_item>a {
+    color: #b2a892
+}
+.counter .desc_wrapper .number {
+    color: #d6aa33;
+    font-family: Roboto Slab, sans-serif
+}
+.quick_fact .number {
+    font-family: Roboto Slab;
+    font-size: 60px;
+    line-height: 70px
+}
+.quick_fact .title {
+    font-size: 16px;
+    line-height: 20px
+}
+a#back_to_top {
+    background-color: #44382c
+}
+body.contact #Content,
+body.content_no_padding #Content {
+    padding-top: 0!important
+}
+.parallax-video .content_video iframe {
+    border: 35px solid #efefef;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+.hrmargin_0,
+div.hrmargin_0,
+h2.hrmargin_0,
+h3.hrmargin_0,
+h4.hrmargin_0,
+h5.hrmargin_0,
+h6.hrmargin_0,
+hr.hrmargin_0 {
+    margin: 0
+}
+.sections_style_0,
+div.sections_style_0 {
+    padding-top: 0;
+    padding-bottom: 0
+}
+.sections_style_1,
+div.sections_style_1 {
+    margin: 0 auto;
+    padding: 0
+}
+.sections_style_2,
+div.sections_style_2 {
+    padding-top: 60px;
+    padding-bottom: 0
+}
+.sections_style_3,
+div.sections_style_3 {
+    padding-top: 60px;
+    padding-bottom: 20px
+}
+.sections_style_4,
+div.sections_style_4 {
+    padding-top: 40px;
+    padding-bottom: 0
+}
+.sections_style_5,
+div.sections_style_5 {
+    padding-top: 70px;
+    padding-bottom: 0
+}
